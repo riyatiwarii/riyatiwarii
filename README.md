@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyatiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="riyatiwarii" /> </p>
 
-- 🌱 I’m currently learning **Flask, Django.**
+- 🌱 I’m currently learning **Full stack Web development at iNeuron.**
 
 - 📫 How to reach me **riyatiwari727@gmail.com**
 
