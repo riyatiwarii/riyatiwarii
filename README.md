@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyatiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="riyatiwarii" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web development at iNeuron.**
+- 🌱 I’m currently learning **Full Stack Web development**
 
 - 📫 How to reach me **riyatiwari727@gmail.com**
 
