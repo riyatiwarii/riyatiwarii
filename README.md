@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **riyatiwari727@gmail.com**
 
-- ⚡ Fun fact **How do I maintain a funny State? Because React developer loves dad jokes. 😂😎**
+- ⚡ Fun fact **How do I maintain a funny *State*? Because *React* developer loves dad jokes. 😂😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
