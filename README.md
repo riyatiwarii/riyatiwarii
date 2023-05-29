@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyatiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="riyatiwarii" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyatiwarii" alt="riyatiwarii" /></a> </p>
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently working on react tech stack.
 
 - 📝 I regularly write articles on [https://riyatiwari.hashnode.dev/](https://riyatiwari.hashnode.dev/)
 
