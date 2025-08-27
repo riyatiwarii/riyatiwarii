@@ -8,14 +8,6 @@
 
 - 🌱 I’m currently working on MERN tech stack.
 
-- 📝 I regularly write articles on [https://riyatiwari.hashnode.dev/](https://riyatiwari.hashnode.dev/)
-
-- 💬 Ask me about **JavaScript, React**
-
-- 📫 How to reach me **riyatiwari727@gmail.com**
-
-- ⚡ Fun fact **How do I maintain a funny *State*? Because *React* developer loves dad jokes. 😂😎**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riyatiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyatiwarii" height="30" width="40" /></a>
